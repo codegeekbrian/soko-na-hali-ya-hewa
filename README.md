@@ -14,13 +14,13 @@ A simple web platform for Kenyan small-scale farmers: Real-time crop prices, wea
 - Hosting: GitHub Pages
 
 ## Setup
-1. Clone: `git clone https://github.com/YOUR_USERNAME/soko-na-hali-ya-hewa.git`
+1. Clone: `git clone https://github.com/codegeekbrian/soko-na-hali-ya-hewa.git`
 2. Get API Key: [openweathermap.org](https://openweathermap.org/api) → Add to script.js.
 3. Open `index.html` in browser or deploy to GitHub Pages.
 4. Update prices in `data.json` weekly.
 
 ## Demo
-Live: https://YOUR_USERNAME.github.io/soko-na-hali-ya-hewa
+Live: https://codegeekbrian.github.io/soko-na-hali-ya-hewa
 
 ## Project Report Integration
 This aligns with [Your University] Computing & IT guidelines:
