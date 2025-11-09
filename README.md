@@ -20,10 +20,10 @@ A simple web platform for Kenyan small-scale farmers: Real-time crop prices, wea
 4. Update prices in `data.json` weekly.
 
 ## Demo
-Live: https://codegeekbrian.github.io/soko-na-hali-ya-hewa
+Live: https://codegeekbrian.github.io/soko-na-hali-ya-hewa/
 
 ## Project Report Integration
-This aligns with [Your University] Computing & IT guidelines:
+This aligns with Kirinyaga University Computing & IT guidelines:
 - **Chapter 4**: UI in index.html; DFD in docs/.
 - **Chapter 5**: Test on Chrome/Firefox; Screenshots in docs/.
 
@@ -31,4 +31,5 @@ This aligns with [Your University] Computing & IT guidelines:
 Fork & PR. Update for more crops/markets.
 
 ## License
+
 MIT. For Kenyan farmers! 🇰🇪
